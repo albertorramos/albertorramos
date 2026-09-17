@@ -5,7 +5,7 @@
 [![Email](https://shields.io)](mailto:arr86@sapo.pt)
 
 ### Education & Projects
-[![Cybersecurity Portfolio](https://shields.io)](https://github.com/albertorramos)
+[![Cybersecurity Portfolio](https://shields.io)](https://github.com/albertorramos/Cybersecurity_Portofolio)
 
 ---
 
