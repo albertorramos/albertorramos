@@ -12,18 +12,18 @@
 ## 💻 Technical Skills & Core Toolkit
 
 ### Infrastructure & Monitoring
-![Windows Server](https://shields.io)
-![Cisco](https://shields.io)
-![pfSense](https://shields.io)
-![Wazuh](https://shields.io)
-![Grafana](https://shields.io)
-![Linux](https://shields.io)
+<img src="https://shields.io" alt="Windows Server">
+<img src="https://shields.io" alt="Cisco">
+<img src="https://shields.io" alt="pfSense">
+<img src="https://shields.io" alt="Wazuh">
+<img src="https://shields.io" alt="Grafana">
+<img src="https://shields.io" alt="Linux">
 
 ### Offensive Security & Forensics
-![Kali Linux](https://shields.io)
-![Wireshark](https://shields.io)
-![Nessus](https://shields.io)
-![OpenVAS](https://shields.io)
+<img src="https://shields.io" alt="Kali Linux">
+<img src="https://shields.io" alt="Wireshark">
+<img src="https://shields.io" alt="Nessus">
+<img src="https://shields.io" alt="OpenVAS">
 
 ### Programming & Automation
-![Python](https://shields.io)
+<img src="https://shields.io" alt="Python">
