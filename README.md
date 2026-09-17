@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 ### Connect with me
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/alberto-ramos-140032197)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/alberto-ramos-140032197)
 [![Email](https://shields.io)](mailto:arr86@sapo.pt)
 
 ### Education & Projects
