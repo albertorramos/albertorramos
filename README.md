@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**albertorramos/albertorramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/alberto-ramos-140032197)
+[![Email](https://shields.io)](mailto:arr86@sapo.pt)
 
-Here are some ideas to get you started:
+### Education & Projects
+[![Cybersecurity Portfolio](https://shields.io)](https://github.com/albertorramos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills & Core Toolkit
+
+### Infrastructure & Monitoring
+![Windows Server](https://shields.io)
+![Cisco](https://shields.io)
+![pfSense](https://shields.io)
+![Wazuh](https://shields.io)
+![Grafana](https://shields.io)
+![Linux](https://shields.io)
+
+### Offensive Security & Forensics
+![Kali Linux](https://shields.io)
+![Wireshark](https://shields.io)
+![Nessus](https://shields.io)
+![OpenVAS](https://shields.io)
+
+### Programming & Automation
+![Python](https://shields.io)
